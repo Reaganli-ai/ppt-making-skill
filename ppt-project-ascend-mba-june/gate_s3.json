@@ -1,0 +1,73 @@
+{
+  "passed": true,
+  "total_slides": 13,
+  "verdict": "PASS — 可进入 S4 渲染",
+  "fail_items": [],
+  "pass_items": [
+    {
+      "slide_idx": 1,
+      "layout": "cover",
+      "status": "ok"
+    },
+    {
+      "slide_idx": 2,
+      "layout": "agenda",
+      "status": "ok"
+    },
+    {
+      "slide_idx": 3,
+      "layout": "section_divider",
+      "status": "ok"
+    },
+    {
+      "slide_idx": 4,
+      "layout": "executive_summary",
+      "status": "ok"
+    },
+    {
+      "slide_idx": 5,
+      "layout": "before_after",
+      "status": "ok"
+    },
+    {
+      "slide_idx": 6,
+      "layout": "section_divider",
+      "status": "ok"
+    },
+    {
+      "slide_idx": 7,
+      "layout": "meet_the_team",
+      "status": "ok"
+    },
+    {
+      "slide_idx": 8,
+      "layout": "table_insight",
+      "status": "ok"
+    },
+    {
+      "slide_idx": 9,
+      "layout": "section_divider",
+      "status": "ok"
+    },
+    {
+      "slide_idx": 10,
+      "layout": "vertical_steps",
+      "status": "ok"
+    },
+    {
+      "slide_idx": 11,
+      "layout": "side_by_side",
+      "status": "ok"
+    },
+    {
+      "slide_idx": 12,
+      "layout": "action_items",
+      "status": "ok"
+    },
+    {
+      "slide_idx": 13,
+      "layout": "closing",
+      "status": "ok"
+    }
+  ]
+}
