@@ -40,6 +40,12 @@ for s in slides:
     elif L == 'table_insight':
         eng.table_insight(title=s['title'], headers=s['headers'], rows=s['rows'],
                           insights=s['insights'], source=s.get('source', ''))
+    elif L == 'data_table':
+        eng.data_table(title=s['title'], headers=s['headers'], rows=s['rows'],
+                       source=s.get('source', ''))
+    elif L == 'four_column':
+        items = [tuple(i) for i in s['items']]
+        eng.four_column(title=s['title'], items=items, source=s.get('source', ''))
     elif L == 'vertical_steps':
         steps = [tuple(st) for st in s['steps']]
         eng.vertical_steps(title=s['title'], steps=steps, source=s.get('source', ''))

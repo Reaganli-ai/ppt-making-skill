@@ -1,18 +1,20 @@
 {
-  "brief": {"audience": "Ascend MBA 核心三人团队", "goal": "业务梳理+分工对齐+两月冲刺待办", "duration_minutes": 15},
+  "brief": {"audience": "Ascend MBA 核心三人团队", "goal": "业务梳理+分工对齐+本周计划与待办", "duration_minutes": 15},
   "slides": [
     {"idx": 1, "layout": "cover", "title": "Ascend MBA 业务梳理", "key_point": "六月第一次会议——重新梳理业务，对齐分工与冲刺打法"},
-    {"idx": 2, "layout": "agenda", "title": "本次会议议程", "key_point": "三个板块：节奏目标、组织分工、会议待办"},
+    {"idx": 2, "layout": "agenda", "title": "本次会议议程", "key_point": "三个板块：节奏目标、组织分工、待办与本周计划"},
     {"idx": 3, "layout": "section_divider", "title": "业务定位与两月冲刺目标", "key_point": "第一章"},
     {"idx": 4, "layout": "executive_summary", "title": "本次梳理的四点核心共识", "key_point": "用两个月冲刺把业务跑通，9月起靠机制轻量运转"},
-    {"idx": 5, "layout": "before_after", "title": "两个月全力冲刺，换来9月起的机制化轻运转", "key_point": "6月中-8月中冲刺期 对比 9月起机制期"},
+    {"idx": 5, "layout": "before_after", "title": "两个月全力冲刺，换来9月起的机制化轻运转", "key_point": "冲刺期 对比 机制期"},
     {"idx": 6, "layout": "section_divider", "title": "组织与分工", "key_point": "第二章"},
-    {"idx": 7, "layout": "meet_the_team", "title": "三人各司其职，覆盖交付、获客与内容全链路", "key_point": "Eric/Peter/Reagan 分工"},
-    {"idx": 8, "layout": "table_insight", "title": "三条工作流对应到人，直播是本阶段获客主引擎", "key_point": "工作流×负责人×本阶段重点"},
-    {"idx": 9, "layout": "section_divider", "title": "本次会议待办", "key_point": "第三章"},
-    {"idx": 10, "layout": "vertical_steps", "title": "直播与选题：定场次、对齐选题、跑通流程三步走", "key_point": "直播板块三项待办"},
-    {"idx": 11, "layout": "side_by_side", "title": "直播技术与公众号两条线并行推进", "key_point": "直播技术支持 与 公众号待办"},
-    {"idx": 12, "layout": "action_items", "title": "会后行动清单：明确事项、负责人与时间", "key_point": "汇总待办的owner与deadline"},
-    {"idx": 13, "layout": "closing", "title": "两个月，把业务跑起来", "key_point": "结束页"}
+    {"idx": 7, "layout": "meet_the_team", "title": "三人各司其职，直播、选题、内容各有主责", "key_point": "Eric/Peter/Reagan 分工"},
+    {"idx": 8, "layout": "table_insight", "title": "五条工作流对应到人，直播是本阶段获客主引擎", "key_point": "工作流×负责人×重点"},
+    {"idx": 9, "layout": "section_divider", "title": "本次会议待办与本周计划", "key_point": "第三章"},
+    {"idx": 10, "layout": "data_table", "title": "直播与选题：主导与配合分工清晰到环节", "key_point": "环节×主导×配合"},
+    {"idx": 11, "layout": "vertical_steps", "title": "本周三件事：选题过会、数字人启动、公众号起跑", "key_point": "本周时间安排与进度"},
+    {"idx": 12, "layout": "four_column", "title": "直播内容策略：先跑通流程，不求一次完美", "key_point": "内容准备/主题复用/PPT支持/先跑起来"},
+    {"idx": 13, "layout": "action_items", "title": "会后行动清单：明确事项、负责人与时间", "key_point": "待办的owner与时间"},
+    {"idx": 14, "layout": "side_by_side", "title": "两条协作约定：费用报销与拉群沟通", "key_point": "报销 与 拉群账号约定"},
+    {"idx": 15, "layout": "closing", "title": "两个月，把业务跑起来", "key_point": "结束页"}
   ]
 }

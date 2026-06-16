@@ -1,6 +1,6 @@
 {
   "passed": true,
-  "total_slides": 13,
+  "total_slides": 15,
   "verdict": "PASS — 可进入 S4 渲染",
   "fail_items": [],
   "pass_items": [
@@ -51,21 +51,31 @@
     },
     {
       "slide_idx": 10,
-      "layout": "vertical_steps",
+      "layout": "data_table",
       "status": "ok"
     },
     {
       "slide_idx": 11,
-      "layout": "side_by_side",
+      "layout": "vertical_steps",
       "status": "ok"
     },
     {
       "slide_idx": 12,
-      "layout": "action_items",
+      "layout": "four_column",
       "status": "ok"
     },
     {
       "slide_idx": 13,
+      "layout": "action_items",
+      "status": "ok"
+    },
+    {
+      "slide_idx": 14,
+      "layout": "side_by_side",
+      "status": "ok"
+    },
+    {
+      "slide_idx": 15,
       "layout": "closing",
       "status": "ok"
     }
